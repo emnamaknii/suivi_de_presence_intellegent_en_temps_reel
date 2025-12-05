@@ -1,5 +1,4 @@
-#Suivi de présence intelligent en temps réel
-
+# Suivi de présence intelligent en temps réel
 Projet académique réalisé à l'ISET.
 
 ## Description
@@ -10,7 +9,7 @@ En cas d’absence, les parents sont automatiquement notifiés.
 
 ## Matériel utilisé
 - ESP32
-- Capteur d’empreinte digitale (AS608)
+- Capteur d’empreinte digitale (R307)
 - Câblage et alimentation
 
 ## Fonctionnement
